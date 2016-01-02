@@ -1,3 +1,5 @@
+Front-end old-style terminal interface, for web services like those provided by Google and Yahoo.
+
 Code imported from the now read-only [Google Code repository](https://code.google.com/p/goosh/)
 
 Code License: [Artistic License/GPL](http://dev.perl.org/licenses/)<br>
